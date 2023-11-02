@@ -18,8 +18,10 @@
 	"gravityforms_": "Gravity Forms",
 	"gf_": "Gravity Forms",
 	"gforms_": "Gravity Forms",
+	"gform_": "Gravity Forms",
 	"rg_gforms": "Gravity Forms",
 	"widget_gforms": "Gravity Forms",
+	"gravityformsaddon_": "Gravity Forms",
 	"edd_": "Easy Digital Downloads",
 	"ithemes_": "iThemes Security",
 	"jetpack_": "Jetpack",
@@ -72,7 +74,7 @@
 	"visual_composer_": "Visual Composer",
 	"wp_scheduled_posts_": "WP Scheduled Posts",
 	"wp_all_import_": "WP All Import",
-	"fs_accounts": "Freemius SDK",
+	"fs_": "Freemius SDK",
 	"flexible_checkout_fields_": "Flexible Checkout Fields",
 	"cptui_": "Custom Post Type UI",
 	"sd_": "Schema & Structured Data for WP & AMP",
@@ -233,5 +235,6 @@
 	"category_children": "WordPress Core",
 	"finished_updating_comment_type": "WordPress Core",
 	"_transient_health-check-site-status-result": "WordPress Core",
-	"recently_activated": "WordPress Core"
+	"recently_activated": "WordPress Core",
+	"_transient_wc_count_comments": "WordPress Core",
 }
